@@ -1,0 +1,90 @@
+.logo{
+    text-align: center;
+}
+
+.menu-buttons{
+    text-align: center;
+}
+
+.btn-outline-aboutus:hover{
+    opacity: 0.3;
+    transition: 0.3s;
+}
+
+.btn-outline-category2:hover{
+    opacity: 0.3;
+    transition: 0.3s;
+}
+
+.btn-outline-category3:hover{
+    opacity: 0.3;
+    transition: 0.3s;
+}
+
+.btn-outline-category4:hover{
+    opacity: 0.3;
+    transition: 0.3s;
+}
+
+.btn-outline-category5:hover{
+    opacity: 0.3;
+    transition: 0.3s;
+}
+
+.btn-outline-aboutus{
+    color: teal;
+    background-color: transparent;
+    background-image: none;
+    border-color: teal;
+}
+
+.btn-outline-category2{
+    color: purple;
+    background-color: transparent;
+    background-image: none;
+    border-color: purple;
+}
+
+.btn-outline-category3{
+    color: #fabdcd;
+    background-color: transparent;
+    background-image: none;
+    border-color: #fabdcd;
+}
+
+
+
+.background-pic{
+    background-image: url("IMG_3404.jpg");
+    min-height: 400px;
+    opacity: 0.70;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.caption{
+    text-align: center;
+    font-weight: bold;
+    top: 40%;
+    left: 0%;
+    width: 100%;
+    position: absolute;
+}
+
+.caption span.boxing-caption{
+    letter-spacing: 10px;
+    padding: 18px;
+}
+
+.heading3{
+    text-align: center;
+}
+
+.paragraph{
+    max-width: 35em;
+    float: right;
+    text-align: left;
+    line-height: 30px;
+}
